@@ -1,6 +1,6 @@
-#### Python scripts regarding the management of tofu records
+## Python scripts regarding the management of tofu records
 
-##### To do:
+### To do:
 
 Web-scrapping tool 
 
